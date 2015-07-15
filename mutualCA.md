@@ -1,18 +1,18 @@
 # MUTUAL CONFIDENTIALITY AGREEMENT
 
-THIS MUTUAL CONFIDENTIALITY AGREEMENT (this “Agreement”) is made on this [date] (“Effective Date”) 
+THIS MUTUAL CONFIDENTIALITY AGREEMENT (this “Agreement”) is made on <DATE> (“Effective Date”) 
 
 BETWEEN
 
-[name], a corporation duly organized and validly existing under the laws of [country], having its principal place of business at [address] (“XCo”)
+-NAME-, a corporation duly organized and validly existing under the laws of -COUNTRY-, having its principal place of business at -ADDRESS- (“XCo”)
 
 AND
 
-[name], a corporation duly organized and validly existing under the laws of [country], having its principal place of business at [address] (“YCo”).
+-NAME-, a corporation duly organized and validly existing under the laws of <COUNTRY>, having its principal place of business at -ADDRESS- (“YCo”).
 
 ## RECITALS
 
-The Parties are engaged in discussion, in contemplation of a business relationship where [purpose] (the “Purpose”).
+The Parties are engaged in discussion, in contemplation of a business relationship where -PURPOSE- (the “Purpose”).
 
 In the course of discussion between the Parties, each Party may access to information relating to the other Party which is of a confidential nature, as that term is later defined in this Agreement.
 
@@ -108,6 +108,6 @@ This Agreement will be effective from the Effective Date until three (3) years a
 
 IN WITNESS WHEREOF, the parties have executed this Agreement as of the Effective Date.
 
-[signature]                             
+--signature--                             
 
 
